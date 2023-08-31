@@ -1,0 +1,1 @@
+﻿(command  "netload"  "F:\\mygithubcode\\CadMvvm\\CadMvvm\\bin\\Debug\\CadMvvm.dll")
